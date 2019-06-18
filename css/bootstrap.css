@@ -10052,4 +10052,11 @@ a.text-dark:hover, a.text-dark:focus {
 #god {
   text-align: left;
 }
+
+#boo {
+  position: absolute;
+  top: 100px;
+  right: 16px;
+  font-size: 18px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
