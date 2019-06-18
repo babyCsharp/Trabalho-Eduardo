@@ -11,6 +11,10 @@ function fonte(e) {
 	
 }
 
+function inscri(){
+    alert("Inscrição Realizada Com Sucesso")
+}
+
 
 function triangulo() {
     for (var i = 0; i < 5; i++){
